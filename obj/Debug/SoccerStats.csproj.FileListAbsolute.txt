@@ -1,0 +1,11 @@
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe.config
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\data.txt
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\SoccerStats.exe
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\SoccerStats.pdb
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\obj\Debug\SoccerStats.csprojResolveAssemblyReference.cache
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\obj\Debug\SoccerStats.exe
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\obj\Debug\SoccerStats.pdb
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\SoccerGameResults.csv
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\players.json
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\D\Desktop\pick-it-up\Projects\C#\SoccerStats\SoccerStats\bin\Debug\Newtonsoft.Json.xml
